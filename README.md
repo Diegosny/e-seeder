@@ -1,4 +1,4 @@
-# Eseeder
+# E-seeder
 
 
 Facil manipulação das seeds
